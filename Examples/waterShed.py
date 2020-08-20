@@ -2,7 +2,6 @@
 # Flores Lab
 # Department of Agricultural and Biosystems Engineering
 # North Dakota State University
-# Copyright (c) 2017-18 Jetsonhacks
 import sys
 import argparse
 import cv2
